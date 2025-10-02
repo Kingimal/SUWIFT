@@ -1,0 +1,4 @@
+Nama    :Muhammad Zaimal Mu'affa
+NIM     :25106050033
+
+FIGMA adalah aplikasi desain UI/UX berbasis vektor di Browser dan desktop yang sangat mudah untuk diakses dan digunakan bersama, kapan saja, dan dimana saja serta memiliki fitur beragam
